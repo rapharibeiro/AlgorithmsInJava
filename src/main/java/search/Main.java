@@ -1,3 +1,5 @@
+package search;
+
 import search.BinarySearch;
 
 public class Main {
